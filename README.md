@@ -34,6 +34,8 @@ The analysis was performed using the Google Earth Engine (GEE) platform. The fol
 
 A precise 10 km × 10 km grid was generated using a raster-slicing method with a random image aligned to UTM Zone 33N projection (`EPSG:32633`):
 
+![image](https://github.com/user-attachments/assets/807d2e30-0f9f-4a82-95f8-7536b91d5f47)
+
 ```javascript
 var projection = ee.Projection("EPSG:32633");
 var dummy = ee.Image.random().reproject(projection, null, 10000);
@@ -78,6 +80,8 @@ This index reflects the degree of land use diversity. A higher H′ value indica
 ### ✅ Step 3: NDVI Drop Calculation
 
 To measure vegetation stress during heatwaves, we calculated the difference in NDVI between two time periods:
+
+![image](https://github.com/user-attachments/assets/a98e9d45-e2ab-4834-8673-b329be28bff9)
 
 - **Pre-heatwave period:** June 1–30, 2022  
 - **Heatwave period:** July 15 – August 15, 2022
