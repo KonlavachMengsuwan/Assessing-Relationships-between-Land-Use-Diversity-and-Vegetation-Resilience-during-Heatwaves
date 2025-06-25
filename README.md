@@ -4,7 +4,6 @@
 **Affiliation:** *ZALF, AIA Working Group*  
 **Date:** *June 2025*
 
-![image](https://github.com/user-attachments/assets/129e5540-5fc8-494c-b73f-d16edc0e9eca)
 
 ---
 
@@ -213,4 +212,6 @@ If you use or reference this repository in your work, please cite:
   year = {2025},
   url = {https://github.com/KonlavachMengsuwan/Assessing-Relationships-between-Land-Use-Diversity-and-Vegetation-Resilience-during-Heatwaves}
 }
+
+![image](https://github.com/user-attachments/assets/129e5540-5fc8-494c-b73f-d16edc0e9eca)
 
