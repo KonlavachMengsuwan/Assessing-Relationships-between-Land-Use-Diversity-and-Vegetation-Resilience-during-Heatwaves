@@ -201,10 +201,10 @@ project-root/
 If you use or reference this repository in your work, please cite:
 
 ```bibtex
-@misc{yourlastname2025landuse,
-  author = {Your Lastname, Your Firstname},
+@misc{Mengsuwan2025landuse,
+  author = {Mengsuwan, Konlavach},
   title = {Assessing Relationships between Land Use Diversity and Vegetation Resilience during Heatwaves in Brandenburg, Germany},
   year = {2025},
-  url = {https://github.com/yourusername/your-repo-name}
+  url = {https://github.com/KonlavachMengsuwan/Assessing-Relationships-between-Land-Use-Diversity-and-Vegetation-Resilience-during-Heatwaves}
 }
 
