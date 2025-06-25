@@ -194,6 +194,8 @@ project-root/
 
 ---
 
+GEE Code: https://code.earthengine.google.com/fc4e742fb26264691ef5b39a345a7174
+
 ## 📚 References
 
 - Foley, J.A., et al. (2005). Global consequences of land use. *Science, 309*(5734), 570–574.  
