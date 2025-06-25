@@ -110,7 +110,7 @@ The analysis was done using Earth Engine’s `ui.Chart.feature.byFeature`, and r
 
 The scatter plot below illustrates the relationship between land-use diversity (Shannon Index) and vegetation resilience (NDVI Drop) during the 2022 summer heatwave in Brandenburg:
 
-![Scatter plot](scatter_plot.png)
+![image](https://github.com/user-attachments/assets/ede8445c-4eb5-4f08-ae66-c24e842d86c5)
 
 **Figure:** *Scatter plot showing the relationship between Shannon Diversity Index and NDVI Drop in Brandenburg, Germany (2022 heatwave period). Each point represents a 10 km × 10 km grid cell.*
 
