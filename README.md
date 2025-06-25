@@ -105,7 +105,7 @@ To explore the relationship, we created a scatter plot of NDVI drop vs. Shannon 
 The analysis was done using Earth Engine’s `ui.Chart.feature.byFeature`, and results are visualized directly in the GEE environment.
 
 ---
-```
+
 ## 📊 Results
 
 The scatter plot below illustrates the relationship between land-use diversity (Shannon Index) and vegetation resilience (NDVI Drop) during the 2022 summer heatwave in Brandenburg:
