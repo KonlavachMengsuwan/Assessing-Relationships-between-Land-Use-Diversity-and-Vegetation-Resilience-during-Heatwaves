@@ -4,6 +4,8 @@
 **Affiliation:** *ZALF, AIA Working Group*  
 **Date:** *June 2025*
 
+![image](https://github.com/user-attachments/assets/129e5540-5fc8-494c-b73f-d16edc0e9eca)
+
 ---
 
 ## 🌱 Introduction
