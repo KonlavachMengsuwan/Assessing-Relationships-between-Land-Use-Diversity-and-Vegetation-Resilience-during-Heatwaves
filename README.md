@@ -1,0 +1,1 @@
+# Assessing-Relationships-between-Land-Use-Diversity-and-Vegetation-Resilience-during-Heatwaves
